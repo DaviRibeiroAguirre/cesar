@@ -1,31 +1,21 @@
 # 🖥️ Tarefa de Computador – Cesar
 
 **Instituto Federal de São Paulo (IFSP)**  
-Curso: _______________________________  
-Disciplina: __________________________  
-Professor(a): ________________________  
+Curso: ECA 
+Disciplina: Sistemas de Computação
+Professor(a): Carlos Pagani 
 
 ---
 
 ## 👤 Aluno
 
-- Nome: **Cesar [Sobrenome Completo Aqui]**
-- RA: _______________________________
+- Nome: **Davi Ribeiro, Gustavo Rolisola, João Peres**
+- RA: 3050777, 3049949, 3051579
 
 ---
 
 ## 📝 Objetivo da Tarefa
 
-Descrever brevemente o objetivo da tarefa aqui.  
-Exemplo: Implementar um programa em [linguagem] que realiza [descrição da tarefa].
+Fazer comandos no Daedalus e Cesar 
 
 ---
-
-## 📁 Estrutura do Projeto
-
-```bash
-📦 nome-do-projeto
-├── src/
-│   └── main.ext   # Arquivo principal
-├── README.md      # Este arquivo
-└── ...
