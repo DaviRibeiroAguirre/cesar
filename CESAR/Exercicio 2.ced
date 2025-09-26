@@ -1,0 +1,17 @@
+ORG 1024
+tam: DW 4
+ender: DW 1034
+val: DW 70
+
+ORG 0
+MOV tam, R1
+MOV ender, R2
+MOV val, R0
+
+CONT_ZERO:
+
+MOV R0, (R2)+
+DEC R1
+BNE CONT_ZERO
+
+HLT
